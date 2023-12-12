@@ -1,3 +1,3 @@
 # main
 ## sub
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
